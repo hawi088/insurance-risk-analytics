@@ -195,3 +195,5 @@ secrets.env
 *.tfstate
 *.tfstate.*
 .terraform/
+
+data/
